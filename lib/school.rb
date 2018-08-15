@@ -25,11 +25,9 @@ end
   end
     
     end
-=======
     
     @roster[grade] << name
 
 end
   
 end
->>>>>>> 241c67dadaca3b49b35a2367401428fd6ba31a53
