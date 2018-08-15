@@ -16,7 +16,7 @@ end
     @roster[grade]
   end
   
-  def sort(roster)
+  def sort
     sort={}
     @roster.each do |key, value|
       sort[key]= value.sort
