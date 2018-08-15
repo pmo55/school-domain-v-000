@@ -23,9 +23,6 @@ end
     end
     sort
   end
-    
-    
-    @roster[grade] << name
 
 end
   
