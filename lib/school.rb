@@ -22,8 +22,8 @@ end
       sort[key]= value.sort
     end
     sort
+    @roster[grade] << name
   end
 
-end
   
 end
